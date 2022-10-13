@@ -60,8 +60,9 @@
 `sudo mysql -p`
 ![sudo-mysql-p](./images/sudo-mysql-p.PNG)
 
-### THEN I EXIT MYSQL TO PROCEE TO THE NEXT STEP
+### THEN I EXIT MYSQL TO PROCEED TO THE NEXT STEP
 `exit`
+
 ![exit-mysql](./images/exit-mysql.PNG)
 
 ## STEP 3 – INSTALLING PHP
