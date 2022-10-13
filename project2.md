@@ -46,7 +46,9 @@
 ![alter-user-password](./images/alter-user-password.PNG)
 
 ### Exiting mysql
+
 `mysql> exit`
+
 ![exit-mysql](./images/exit-mysql.PNG)
 
 
@@ -92,7 +94,9 @@
 ![activating-configuration](./images/activating-configuration.PNG)
 
 ### Testing configuration for syntax error
+
 `sudo nginx -t`
+
 ![config-test-ok](./images/config-test-ok.PNG)
 
 ### Disabling default Nginx host that is currently configured to listen on port 80
