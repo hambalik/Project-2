@@ -28,7 +28,7 @@
 
 ### The public IP address can also be retrieved using the following command other than in the AWS web console
 `curl -s http://169.254.169.254/latest/meta-data/public-ipv4`
-[retrieving-ipadd-on-terminal](./images/retrieving-ipadd-on-terminal.PNG)
+![retrieving-ipadd-on-terminal](./images/retrieving-ipadd-on-terminal.PNG)
 
 ## STEP 2 – INSTALLING MYSQL
 
