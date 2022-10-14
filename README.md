@@ -1,2 +1,2 @@
-# Project-2
+# PROJECT-2
 PBL Project 2
